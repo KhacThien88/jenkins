@@ -1,2 +1,1 @@
 # jenkins-init
-my update
